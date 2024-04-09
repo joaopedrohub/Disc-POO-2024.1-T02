@@ -1,7 +1,7 @@
-# Disc-POO-2024.1-T01
+# Disc-POO-2024.1-T02
 
-1. [Lista 01](https://github.com/ClaraRibeiro09/Disc-POO-2024.1-T01/tree/main/CAP-03): Todos os Exercícios Resolvidos e 10 Exercícios Propostos (sorteados aleatoriamente).
-  - Cap. 03 (Estrutura Sequencial)
+1. [Lista 02](https://github.com/ClaraRibeiro09/Disc-POO-2024.1-T02/tree/main/): Todos os Exercícios Resolvidos e 10 Exercícios Propostos (sorteados aleatoriamente).
+  - Cap. 04 (Estrutura Condicional) e Cap. 05 (Estrutura de repetição)
 2. Professor: 
   - Roger Moura Sarmento
 3. Equipe:
